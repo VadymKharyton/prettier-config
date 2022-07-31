@@ -1,0 +1,18 @@
+{
+  "name": "@vadymkharyton/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier config",
+  "main": ".prettierrc.json",
+  "keywords": [
+    "prettier"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VadymKharyton/prettier-config.git"
+  },
+  "author": "Vadym Kharyton",
+  "license": "ISC"
+}
